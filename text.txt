@@ -1,0 +1,79 @@
+[{
+  "city": "Rome",
+  "Timeline": "Robbins and Monro work on stochastic optimization methods.",
+  "Notes": "In computer science and mathematical optimization a metaheuristic is a higher-level procedure.",
+  "Contributors": "Tom and Matt"
+},
+{
+  "city": "Paris",
+  "Timeline": "Barricelli carry out the first simulations of the evolution process and use them on general optimization problems.",
+  "Notes": "Compared to optimization algorithms and iterative methods.",
+  "Contributors": "John and Peter"
+},
+{
+  "city": "New York",
+  "Timeline": "Rastrigin proposes random search.",
+  "Notes": "Most literature on metaheuristics is experimental in nature.",
+  "Contributors": "Ann and Janet"
+},
+{
+  "city": "London",
+  "Timeline": "Matyas proposes random optimization.",
+  "Notes": "One approach is to characterize the type of search strategy.",
+  "Contributors": "Mathew and Jane"
+},
+{
+  "city": "Molde",
+  "Timeline": "Nelder and Mead propose a simplex heuristic, which was shown by Powell to converge to non-stationary points on some problems.",
+  "Notes": "Many metaheuristic ideas were proposed to improve local search heuristic in order to find better solutions.",
+  "Contributors": "Bohr and James"
+},
+{
+  "city": "Munich",
+  "Timeline": "Fogel et al.",
+  "Notes": "Other global search metaheuristic that are not local search-based are usually population-based metaheuristics.",
+  "Contributors": "Julie and Matt"
+},
+{
+  "city": "Manchester",
+  "Timeline": "Hastings proposes the Metropolis–Hastings algorithm.",
+  "Notes": "Another classification dimension is single solution vs. population-based searches.",
+  "Contributors": "James and John"
+},
+{
+  "city": "California",
+  "Timeline": "Cavicchio proposes adaptation of control parameters for an optimizer.",
+  "Notes": "Another category of metaheuristics is Swarm intelligence which is a collective behavior of decentralized.",
+  "Contributors": "Ann and Matt"
+},
+{
+  "city": "Cape Town",
+  "Timeline": "Kernighan and Lin propose a graph partitioning method, related to variable-depth search and prohibition-based (tabu) search.",
+  "Notes": "A hybrid metaheuristic is one which combines a metaheuristic with other optimization approaches.",
+  "Contributors": "April and Mathew"
+},
+{
+  "city": "Dallas",
+  "Timeline": "Holland proposes the genetic algorithm.",
+  "Notes": "On the other hand, Memetic algorithms represent the synergy of evolutionary or any population-based approach.",
+  "Contributors": "Dan and James"
+},
+{
+  "city": "Chicago",
+  "Timeline": "Mercer and Sampson propose a metaplan for tuning an optimizer's parameters by using another optimizer.",
+  "Notes": "A parallel metaheuristic is one which uses the techniques of parallel programming to run multiple metaheuristic searches in parallel",
+  "Contributors": "Daniel and Matt"
+},
+{
+  "city": "Berlin",
+  "Timeline": "Glover proposes tabu search, first mention of the term metaheuristic.",
+  "Notes": "A very active area of research is the design of nature-inspired metaheuristics.",
+  "Contributors": "John and Peter"
+},
+{
+  "city": "Ipswich",
+  "Timeline": "Dorigo introduces ant colony optimization in his Phd Thesis.",
+  "Notes": "Metaheuristics are used for combinatorial optimization in which an optimal solution is sought over a discrete search-space.",
+  "Contributors": "Matt abd John"
+}
+]
